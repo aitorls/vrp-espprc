@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/ubuntu/github_repos/vrp-espprc/build",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/vrp_espprc.dir/espprc.cpp.o -c /home/ubuntu/github_repos/vrp-espprc/espprc.cpp",
+  "file": "/home/ubuntu/github_repos/vrp-espprc/espprc.cpp"
+},
+{
+  "directory": "/home/ubuntu/github_repos/vrp-espprc/build",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/vrp_espprc.dir/graph.cpp.o -c /home/ubuntu/github_repos/vrp-espprc/graph.cpp",
+  "file": "/home/ubuntu/github_repos/vrp-espprc/graph.cpp"
+},
+{
+  "directory": "/home/ubuntu/github_repos/vrp-espprc/build",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/vrp_espprc.dir/main.cpp.o -c /home/ubuntu/github_repos/vrp-espprc/main.cpp",
+  "file": "/home/ubuntu/github_repos/vrp-espprc/main.cpp"
+}
+]
